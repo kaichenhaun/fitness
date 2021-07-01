@@ -6,7 +6,7 @@ import Navbar from "./components/navbar.component.js";
 import ExercisesListComponent from "./components/exercises-list.component.js";
 import EditExerciseComponent from "./components/edit-exercise.component.js";
 import CreateExerciseComponent from "./components/create-exercise.component.js";
-import CreateUserComponent from "./components/create-user.componenta.js";
+import CreateUserComponent from "./components/create-user.component.js";
 
 function App() {
   return (
